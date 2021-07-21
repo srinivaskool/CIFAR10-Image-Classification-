@@ -26,7 +26,6 @@ Image classification on CIFAR-10 dataset using two models. First model is my own
 - PyTorch
 - Matplotlib
 
-
 ### For Execution
 
 The easiest way to start executing the code is to click the Run button at the top of this page and select Run on Colab. Google Colab is a free online platform for running Jupyter notebooks using Google's cloud infrastructure. You can also select "Run on Binder" or "Run on Kaggle" if you face issues running the notebook on Google Colab. 
@@ -127,13 +126,6 @@ CIFAR10-Image-Classification-CNN-and-ResNet
 │  ├─ RES.PNG
 │  └─ Untitled document.docx
 ├─ README.md
-└─ README_IMAGES
-   ├─ 1.png
-   ├─ 2.png
-   ├─ 3.png
-   ├─ 4.png
-   └─ 5.png
-
 ```
 ---
 
