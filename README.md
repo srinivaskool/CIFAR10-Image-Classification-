@@ -58,7 +58,7 @@ The dataset is divided into five training batches and one test batch, each with 
 
 ### CIFAR10 Image Classification using Resnet-9 Architecture 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1xFWyerR7-49Z-6lncSLfw_JJU8VUzhh5?usp=sharing)
+[![Open In Colab](https://colab.research.google.com/drive/1ZK1vdjbqXsuB38m2ENMh0Hk65JHuwKra?usp=sharing)
 
 
 ---
